@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/trq/aliwey/config/WebConfig.java=UTF-8
+encoding//src/main/java/com/trq/aliwey/interceptor/LoginInterceptor.java=UTF-8
+encoding//src/main/java/com/trq/aliwey/model/vo/BankVo.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/config.properties=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
