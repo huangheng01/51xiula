@@ -12,7 +12,6 @@ public class BankVo {
 	public BankVo() {
 		super();
 	}
-
 	public BankVo(Integer id, String name) {
 		super();
 		this.id = id;
