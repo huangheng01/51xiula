@@ -31,7 +31,8 @@ public class LoginController extends BaseController {
 	}
 	public void login(){
 		System.out.println("啥多福多寿");
-		System.out.println("sdfsf35435422222");
+			int t=11111;
+		System.out.println(t);
 
 	}
 }
