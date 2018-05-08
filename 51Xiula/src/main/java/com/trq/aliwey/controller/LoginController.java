@@ -29,5 +29,7 @@ public class LoginController extends BaseController {
 
 		this.display();
 	}
-	
+	public void login(){
+		
+	}
 }
