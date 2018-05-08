@@ -30,6 +30,6 @@ public class LoginController extends BaseController {
 		this.display();
 	}
 	public void login(){
-		System.out.println("sdfsf3543542222");
+		System.out.println("sdfsf35435422222");
 	}
 }
